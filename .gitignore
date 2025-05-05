@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+__pycache__/*
+*.so
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+static/backup_files
+env/
+static/data_logger
+Untitled.ipynb
+.ipynb_checkpoints
+# Ignore byte-compiled files
+*.py[cod]
+__pycache__/
